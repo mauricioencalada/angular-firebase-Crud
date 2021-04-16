@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "crud-employee-ce431": {
+      "hosting": {
+        "angular-firebase": [
+          "crud-employee-ce431"
+        ]
+      }
+    }
+  }
+}
